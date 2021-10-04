@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yann.lochkareff@gmail.com
+	name = Yann Lochkareff
